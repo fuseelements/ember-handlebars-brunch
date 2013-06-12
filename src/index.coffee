@@ -1,5 +1,4 @@
 sysPath     = require 'path'
-fs          = require 'fs'
 compileHBS  = require './ember-handlebars-compiler'
 
 module.exports = class EmberHandlebarsCompiler
