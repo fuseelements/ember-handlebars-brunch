@@ -1,7 +1,7 @@
 (function() {
 var Ember = { assert: function() {} };
-// Version: v1.0.0-rc.7
-// Last commit: b612079 (2013-08-14 00:35:26 -0500)
+// Version: v1.0.0-rc.8-3-gf0c90f8
+// Last commit: f0c90f8 (2013-08-29 00:12:09 -0700)
 
 
 (function() {
